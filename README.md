@@ -6,3 +6,4 @@
 IF YOU HAVE INTENTIONS OF SOLVING PROJECT EULER, DON'T OPEN MY SOLUTIONS!</h3>
 
 - My email is thiago.berwanger@gmail.com
+- My Linkedin profile is: https://www.linkedin.com/in/thiago-berwanger-chagas-22a365248/
